@@ -28,6 +28,15 @@
     "plugins": ["expo-router"],
     "experiments": {
       "tsconfigPaths": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "1608daa6-00b5-4678-8e7c-95c30b03f7ff"
+      }
+    },
+    "owner": "insidiae"
   }
 }
